@@ -1,2 +1,2 @@
 # README
-Complete ruby on rails for development
+Currently in learning mode in the ruby in rails 
